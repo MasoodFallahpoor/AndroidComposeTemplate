@@ -4,7 +4,7 @@ object Config {
     const val minSdkVersion = 21
     const val targetSdkVersion = 30
 
-    const val appId = "ir.fallahpoor.chitchat"
+    const val appId = "ir.fallahpoor.androidcomposetemplate"
     const val versionCode = 1
     const val versionName = "0.1.0"
 

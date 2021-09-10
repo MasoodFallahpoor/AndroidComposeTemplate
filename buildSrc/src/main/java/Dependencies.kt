@@ -1,7 +1,7 @@
 object Dependencies {
 
     internal const val kotlinVersion = "1.5.21"
-    internal const val composeVersion = "1.0.1"
+    internal const val composeVersion = "1.0.2"
 
     object App {
         const val kotlinStdLib = "org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}"
